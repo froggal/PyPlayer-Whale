@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "PyPlayer",
+    "version": "1.0.0",
+
+
+    "description": "PyPlayer, 네이버 웨일 전용 음악 플레이어",
+    "icons": {},
+    "default_locale": "ko",
+
+    "browser_action": {},
+    "page_action": {},
+    "sidebar_action": {}, 
+
+    "background": {
+        "scripts": [...],
+        "page": "..."
+    },
+    "content_scripts": [...],
+    "permissions": [...],
+    ...
+}
