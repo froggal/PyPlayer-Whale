@@ -1,2 +1,2 @@
 # PyPlayer
-PyPlayer, A Music &amp; Video Chrome Extension with Py-Script, JavaScript.
+PyPlayer, A Music &amp; Video Extension with Py-Script, JavaScript.
